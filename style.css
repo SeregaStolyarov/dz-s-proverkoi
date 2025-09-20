@@ -54,7 +54,7 @@ header span {
 
 .about-section {
     background-color: #fff;
-    padding: 136px 0 25px;
+    padding: 100px 0 
     /* Стили для второй секции */
 }
 
@@ -78,12 +78,12 @@ select {
 
 .frameworks-list {
     list-style-image: url(./img/solar_map-arrow-up-bold.png);
-    padding-left: 20px;
+    padding-left: 0 20px;
     /* Стили для маркированного списка во второй секции */
 }
 
 .books-list {
-    padding-left: 20px;
+    padding-left: 0 20px;
     ont-weight: 400;
     font-size: 16px;
     /* Стили для нумерованного списка во второй секции */
